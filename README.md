@@ -7,7 +7,7 @@ In this repository, I document my learning process from the **DeepLearning.AI** 
 
 ### Contents
 - My study notes on Hugging Face (tasks, models, pipelines, Open LLM Leaderboard, etc.)  
-- Reports and summaries about **Transformers** (attention mechanisms, PyTorch code, and related concepts)  
+- Reports and summaries about **Transformers**  
 - Example code snippets and experiments as I progress through the courses  
 
 ---
